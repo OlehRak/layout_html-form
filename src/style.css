@@ -1,1 +1,21 @@
 /* styles go here */
+body {
+  margin: 0;
+}
+
+label {
+  display: block;
+}
+
+fieldset {
+  padding-top: 0;
+  margin-bottom: 20px;
+}
+
+.old {
+  width: 30px;
+}
+
+.allmargin {
+  margin: 10px;
+}
