@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: 8;
 }
 
 label {
@@ -7,14 +7,19 @@ label {
 }
 
 fieldset {
-  padding-top: 0;
-  margin-bottom: 20px;
+  
+  margin: 0 2px 20px;
+ 
 }
 
-.old {
-  width: 30px;
+.age {
+  width: 65px;
 }
 
 .allmargin {
-  margin: 10px;
+  margin: 0 0 10px;
+}
+
+.lastinput {
+  margin-bottom: 0;
 }
